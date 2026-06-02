@@ -1,0 +1,16 @@
+Logistics FAQ: Shipping and Tracking
+
+Q: How do I track my shipment?
+A: You can track your shipment by visiting our tracking portal at track.shipfast.com and entering your 12-digit tracking number. Tracking numbers are emailed to you within 2 hours of order confirmation. If you did not receive a tracking number, check your spam folder or contact support with your order ID.
+
+Q: How long does standard shipping take?
+A: Standard shipping takes 3 to 5 business days for domestic orders. International orders typically take 7 to 14 business days depending on the destination country and customs processing time. Business days exclude weekends and public holidays.
+
+Q: My package says delivered but I have not received it.
+A: First check around your delivery location including porches, mailboxes, and with neighbors. Carriers sometimes mark a package as delivered up to 24 hours before physical delivery. If the package does not arrive within 24 hours of the delivery notification, contact our support team with your tracking number and we will open an investigation with the carrier.
+
+Q: Can I change the delivery address after placing an order?
+A: Address changes can only be made within 1 hour of placing the order, before the shipment is picked up by the carrier. Contact support immediately with your order ID and the new address. Once the carrier has collected the package, address changes are no longer possible and you will need to wait for the package to be returned to our warehouse.
+
+Q: What happens if no one is home during delivery?
+A: If no one is available to receive the package, the carrier will leave a delivery attempt notice. They will typically make up to 3 delivery attempts on consecutive business days. After 3 failed attempts, the package is held at the local carrier facility for 5 business days before being returned to our warehouse. You can arrange redelivery or pickup directly through the carrier using the tracking number.
